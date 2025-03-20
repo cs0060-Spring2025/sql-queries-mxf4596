@@ -50,7 +50,7 @@ WHERE item.itemDescription LIKE '%bottle%';
 
 
 Answer:
-food and water
+'food and water'
 
 6) Which items, if any, are not in any packages?  Answer should be item descriptions.
 Query:
